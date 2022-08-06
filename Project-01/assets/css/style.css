@@ -1,0 +1,28 @@
+
+section.main-wrap  form{
+    padding: 50px;
+}
+
+section.main-wrap  form label{
+    margin-top: 20px;}
+
+
+section.main-wrap  form label span{
+    color: red;
+}
+
+section.main-wrap  form  button{
+    width: 100%;
+    color: #000;
+    font-weight: 600;
+    background-color: rgb(73, 136, 187);
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 1px solid rgb(30, 100, 97);
+}
+
+
+.error{
+    background: red;
+}
